@@ -17,8 +17,8 @@ This is a web-based application that simulates a maze-solving robot. It dynamica
 - Performance Metrics: Displays the length of the found path, the number of cells explored, and the time taken for each algorithm to find the path. <br>
 
 <h3> How to Use: </h3>
-- Download: Clone or download the maze_solver_robot_v1.html file. <br>
-- Open in Browser: Open the maze_solver_robot_v1.html file directly in any modern web browser (e.g., Chrome, Firefox, Edge). <br>
+- Download: Clone or download the mazeSolver.html file. <br>
+- Open in Browser: Open the mazeSolver.html file directly in any modern web browser (e.g., Chrome, Firefox, Edge). <br>
 - Set Grid Size: Enter your desired odd number for the "Grid Size" (e.g., 21, 51, 101). <br>
 - Set Start & End Points: Input the row and column coordinates for your desired start and end points. Remember the start point restrictions. <br>
 - Generate Maze: Click the "Generate New Maze" button to create a maze with your specified dimensions and points. <br>
