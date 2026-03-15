@@ -89,6 +89,6 @@ This project has zero dependencies. It runs entirely in the browser using:
 
 - Plain HTML5
 - CSS3
-- Vanilla JavaScript (Canvas API, OffscreenCanvas)
+- Vanilla JavaScript 
 
 No npm, no pip, no installs required.
