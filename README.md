@@ -28,7 +28,7 @@ An interactive maze generation and pathfinding visualizer built with vanilla HTM
 
 ## Project Structure
 ```
-maze-solver/
+Maze-Solver-Bot/
 └── index.html      # Entire app — no dependencies, no build step
 ```
 
