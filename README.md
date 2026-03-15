@@ -52,16 +52,18 @@ start index.html
 
 ---
 
-## Deploy on Vercel
+## Deploy on Cloudflare Pages
 
 ### First-time setup
 
 1. Push the project to a GitHub repository
-2. Go to [vercel.com](https://vercel.com) and click **New Project**
-3. Import your GitHub repository
-4. No build settings needed — click **Deploy**
+2. Go to [cloudflare.com](https://cloudflare.com) → **Workers & Pages**
+3. Click **Create** → **Pages** → **Connect to Git**
+4. Select your GitHub repository
+5. Under **Build settings** — leave everything blank (no build command, no output directory needed)
+6. Click **Save and Deploy**
 
-Your site will be live at `https://your-repo-name.vercel.app`
+Your site will be live at `https://your-repo-name.pages.dev`
 
 ### Update the live site
 
@@ -72,7 +74,7 @@ git commit -m "your update message"
 git push
 ```
 
-Vercel detects the push and updates the live site within ~30 seconds.
+Cloudflare detects the push and updates the live site within ~30 seconds.
 
 ### Via GitHub website (no terminal)
 
@@ -81,7 +83,7 @@ Vercel detects the push and updates the live site within ~30 seconds.
 3. Paste updated code
 4. Click **Commit changes**
 
-Done — Vercel redeploys automatically.
+Done — Cloudflare Pages redeploys automatically.
 
 ---
 
