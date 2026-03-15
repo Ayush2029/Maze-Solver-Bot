@@ -1,5 +1,4 @@
 # Maze-Solver-Bot
-# Maze Solver
 
 An interactive maze generation and pathfinding visualizer built with vanilla HTML, CSS, and JavaScript. Visualizes BFS, DFS, and A* algorithms solving randomly generated mazes in real time.
 
