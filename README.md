@@ -38,15 +38,17 @@ No `package.json`, no `requirements.txt`, no frameworks. Everything runs in the 
 
 ## Run Locally
 
-Just open the file in a browser:
+Open terminal and navigate to the project folder:
 ```bash
-# Option 1 — open directly
-open index.html
-
-# Option 2 — serve locally
-npx serve .
-# then visit http://localhost:3000
+cd path/to/maze-solver
 ```
+
+Then open the file directly in your browser:
+```bash
+start index.html
+```
+
+> On Mac use `open index.html` · On Linux use `xdg-open index.html`
 
 ---
 
